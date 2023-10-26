@@ -3,10 +3,6 @@
 
 ![image](https://blog.kakaocdn.net/dn/YsoF8/btq0ulDzW7m/Giuuy8FhFQgf4uLWJbyikk/img.png)
 
-👉[공부한 내용 정리](https://yeonyeon.tistory.com/16)
-
-
-
 
 ## ✅개발 환경
 
@@ -79,6 +75,7 @@ MVC 패턴으로 Dto, Service, Controller 클래스와 JpaRepository를 상속�
 ## ✅프로젝트 산출물
 * Proejct 시작
   - [Spring boot로 변환하기](https://candoit.tistory.com/77)
+  - [Controller 작성 및 테스트](https://candoit.tistory.com/78)
 
 
 
