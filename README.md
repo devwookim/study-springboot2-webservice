@@ -76,6 +76,8 @@ MVC 패턴으로 Dto, Service, Controller 클래스와 JpaRepository를 상속�
 * Proejct 시작
   - [Spring boot로 변환하기](https://candoit.tistory.com/77)
   - [Controller 작성 및 테스트](https://candoit.tistory.com/78)
+  - [JPA 사용하기](https://candoit.tistory.com/79)
+  - [API 만들기(h2 웹 콘솔 사용](https://candoit.tistory.com/80)
 
 
 
