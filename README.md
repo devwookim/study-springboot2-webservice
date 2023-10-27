@@ -73,11 +73,25 @@ MVC 패턴으로 Dto, Service, Controller 클래스와 JpaRepository를 상속�
    - 하지만, 테스트 코드는 이러한 번거로움을 해결할 수 있으며, CI/CD를 활용하는 경우에는 프로젝트의 빌드를 성공적으로 다룬다.
 
 ## ✅프로젝트 산출물
-* Proejct 시작
+1. Proejct 시작
   - [Spring boot로 변환하기](https://candoit.tistory.com/77)
   - [Controller 작성 및 테스트](https://candoit.tistory.com/78)
   - [JPA 사용하기](https://candoit.tistory.com/79)
   - [API 만들기(h2 웹 콘솔 사용](https://candoit.tistory.com/80)
+
+2. Mustache와 화면 구성
+  - [Mustache](https://candoit.tistory.com/81)
+  - [게시글 등록 화면](https://candoit.tistory.com/82)
+  - [게시글 조회 화면](https://candoit.tistory.com/83)
+   
+
+3. OAuth 2
+  - [구글 로그인 연동](https://candoit.tistory.com/84)
+  - [네이버 로그인 연동](https://candoit.tistory.com/85)
+   
+4. Spring Security
+  - [테스트에 시큐리티 적용하기](https://candoit.tistory.com/80)
+   
 
 
 
