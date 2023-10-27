@@ -80,17 +80,17 @@ MVC 패턴으로 Dto, Service, Controller 클래스와 JpaRepository를 상속�
   - [API 만들기(h2 웹 콘솔 사용](https://candoit.tistory.com/80)
 
 2. Mustache와 화면 구성
-  - [Mustache](https://candoit.tistory.com/81)
-  - [게시글 등록 화면](https://candoit.tistory.com/82)
-  - [게시글 조회 화면](https://candoit.tistory.com/83)
+  - [Mustache](https://candoit.tistory.com/82)
+  - [게시글 등록 화면](https://candoit.tistory.com/83)
+  - [게시글 조회 화면](https://candoit.tistory.com/84)
    
 
 3. OAuth 2
-  - [구글 로그인 연동](https://candoit.tistory.com/84)
-  - [네이버 로그인 연동](https://candoit.tistory.com/85)
+  - [구글 로그인 연동](https://candoit.tistory.com/85)
+  - [네이버 로그인 연동](https://candoit.tistory.com/86)
    
 4. Spring Security
-  - [테스트에 시큐리티 적용하기](https://candoit.tistory.com/80)
+  
    
 
 
