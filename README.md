@@ -89,9 +89,8 @@ MVC 패턴으로 Dto, Service, Controller 클래스와 JpaRepository를 상속�
   - [구글 로그인 연동](https://candoit.tistory.com/85)
   - [네이버 로그인 연동](https://candoit.tistory.com/86)
    
-4. Spring Security
-  
-   
+4. Spring Security 
+  - [테스트에 시큐리티 적용하기](https://candoit.tistory.com/87)
 
 
 
