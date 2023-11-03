@@ -21,7 +21,7 @@ RESTful API 기반 Web Application
 - Bootstrap
 - javascript
 - AWS EC2 (Amazon Linux AMI 2)
-- AWS RDS (MariaDB 10.2.21)
+- AWS RDS (MariaDB 10.6)
 - AWS S3
 - Putty
 - HeidiSQL
